@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/marketplace/marketplace.schema.json",
+  "name": "kevin-speak",
+  "owner": {
+    "name": "ooloe"
+  },
+  "metadata": {
+    "description": "Few word do trick."
+  },
+  "plugins": [
+    {
+      "name": "kevin-speak",
+      "description": "Rewrite Claude's output in Kevin Malone's few-word English. Why waste time say lot word when few word do trick?",
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["writing", "brevity", "rewrite", "fun", "the-office"],
+      "source": "./"
+    }
+  ]
+}

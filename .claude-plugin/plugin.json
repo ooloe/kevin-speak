@@ -1,0 +1,10 @@
+{
+  "name": "kevin-speak",
+  "version": "0.1.0",
+  "description": "Rewrite Claude's output in Kevin Malone's few-word English. Why waste time say lot word when few word do trick?",
+  "author": {
+    "name": "ooloe"
+  },
+  "license": "MIT",
+  "keywords": ["writing", "brevity", "rewrite", "fun", "the-office"]
+}
